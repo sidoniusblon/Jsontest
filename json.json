@@ -1,0 +1,1219 @@
+
+{
+"Cities": [
+  {
+    "id": 0,
+    "city": "Tokyo"
+  },
+  {
+    "id": 1,
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "city": "Paris"
+  },
+  {
+    "id": 4,
+    "city": "Berlin"
+  },
+  {
+    "id": 5,
+    "city": "Sydney"
+  },
+  {
+    "id": 6,
+    "city": "Istanbul"
+  },
+  {
+    "id": 7,
+    "city": "Moscow"
+  },
+  {
+    "id": 8,
+    "city": "Cairo"
+  },
+  {
+    "id": 9,
+    "city": "Dubai"
+  },
+  {
+    "id": 10,
+    "city": "Rome"
+  },
+  {
+    "id": 11,
+    "city": "Amsterdam"
+  },
+  {
+    "id": 12,
+    "city": "Bangkok"
+  },
+  {
+    "id": 13,
+    "city": "Singapore"
+  },
+  {
+    "id": 14,
+    "city": "Toronto"
+  },
+  {
+    "id": 15,
+    "city": "Seoul"
+  },
+  {
+    "id": 16,
+    "city": "Barcelona"
+  },
+  {
+    "id": 17,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 18,
+    "city": "Rio de Janeiro"
+  },
+  {
+    "id": 19,
+    "city": "Sydney"
+  },
+  {
+    "id": 20,
+    "city": "Cape Town"
+  },
+  {
+    "id": 21,
+    "city": "Buenos Aires"
+  },
+  {
+    "id": 22,
+    "city": "Mumbai"
+  },
+  {
+    "id": 23,
+    "city": "Vienna"
+  },
+  {
+    "id": 24,
+    "city": "Stockholm"
+  },
+  {
+    "id": 25,
+    "city": "Prague"
+  },
+  {
+    "id": 26,
+    "city": "Beijing"
+  },
+  {
+    "id": 27,
+    "city": "Athens"
+  },
+  {
+    "id": 28,
+    "city": "Lisbon"
+  },
+  {
+    "id": 29,
+    "city": "Helsinki"
+  },
+  {
+    "id": 30,
+    "city": "Dublin"
+  },
+  {
+    "id": 31,
+    "city": "Copenhagen"
+  },
+  {
+    "id": 32,
+    "city": "Vienna"
+  },
+  {
+    "id": 33,
+    "city": "Warsaw"
+  },
+  {
+    "id": 34,
+    "city": "Madrid"
+  },
+  {
+    "id": 35,
+    "city": "Oslo"
+  },
+  {
+    "id": 36,
+    "city": "Lima"
+  },
+  {
+    "id": 37,
+    "city": "Santiago"
+  },
+  {
+    "id": 38,
+    "city": "Bogota"
+  },
+  {
+    "id": 39,
+    "city": "Mexico City"
+  },
+  {
+    "id": 40,
+    "city": "Jakarta"
+  },
+  {
+    "id": 41,
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 42,
+    "city": "Manila"
+  },
+  {
+    "id": 43,
+    "city": "Hong Kong"
+  },
+  {
+    "id": 44,
+    "city": "Shanghai"
+  },
+  {
+    "id": 45,
+    "city": "Munich"
+  },
+  {
+    "id": 46,
+    "city": "Zurich"
+  },
+  {
+    "id": 47,
+    "city": "Toronto"
+  },
+  {
+    "id": 48,
+    "city": "Vancouver"
+  },
+  {
+    "id": 49,
+    "city": "Montreal"
+  },
+  {
+    "id": 50,
+    "city": "San Francisco"
+  },
+  {
+    "id": 51,
+    "city": "Chicago"
+  },
+  {
+    "id": 52,
+    "city": "Las Vegas"
+  },
+  {
+    "id": 53,
+    "city": "Miami"
+  },
+  {
+    "id": 54,
+    "city": "Boston"
+  },
+  {
+    "id": 55,
+    "city": "Seattle"
+  },
+  {
+    "id": 56,
+    "city": "Houston"
+  },
+  {
+    "id": 57,
+    "city": "Dallas"
+  },
+  {
+    "id": 58,
+    "city": "Atlanta"
+  },
+  {
+    "id": 59,
+    "city": "Denver"
+  },
+  {
+    "id": 60,
+    "city": "Phoenix"
+  },
+  {
+    "id": 61,
+    "city": "Dublin"
+  },
+  {
+    "id": 62,
+    "city": "Amsterdam"
+  },
+  {
+    "id": 63,
+    "city": "Brussels"
+  },
+  {
+    "id": 64,
+    "city": "Berlin"
+  },
+  {
+    "id": 65,
+    "city": "Vienna"
+  },
+  {
+    "id": 66,
+    "city": "Paris"
+  },
+  {
+    "id": 67,
+    "city": "Rome"
+  },
+  {
+    "id": 68,
+    "city": "Madrid"
+  },
+  {
+    "id": 69,
+    "city": "Lisbon"
+  },
+  {
+    "id": 70,
+    "city": "Barcelona"
+  },
+  {
+    "id": 71,
+    "city": "Athens"
+  },
+  {
+    "id": 72,
+    "city": "Istanbul"
+  },
+  {
+    "id": 73,
+    "city": "Moscow"
+  },
+  {
+    "id": 74,
+    "city": "St. Petersburg"
+  },
+  {
+    "id": 75,
+    "city": "Dubai"
+  },
+  {
+    "id": 76,
+    "city": "Cairo"
+  },
+  {
+    "id": 77,
+    "city": "Cape Town"
+  },
+  {
+    "id": 78,
+    "city": "Johannesburg"
+  },
+  {
+    "id": 79,
+    "city": "Nairobi"
+  },
+  {
+    "id": 80,
+    "city": "Mumbai"
+  },
+  {
+    "id": 81,
+    "city": "New Delhi"
+  },
+  {
+    "id": 82,
+    "city": "Bangkok"
+  },
+  {
+    "id": 83,
+    "city": "Singapore"
+  },
+  {
+    "id": 84,
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 85,
+    "city": "Jakarta"
+  },
+  {
+    "id": 86,
+    "city": "Sydney"
+  },
+  {
+    "id": 87,
+    "city": "Melbourne"
+  },
+  {
+    "id": 88,
+    "city": "Brisbane"
+  },
+  {
+    "id": 89,
+    "city": "Auckland"
+  },
+  {
+    "id": 90,
+    "city": "Wellington"
+  },
+  {
+    "id": 91,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 92,
+    "city": "San Francisco"
+  },
+  {
+    "id": 93,
+    "city": "Las Vegas"
+  },
+  {
+    "id": 94,
+    "city": "Chicago"
+  },
+  {
+    "id": 95,
+    "city": "Miami"
+  },
+  {
+    "id": 96,
+    "city": "New Orleans"
+  },
+  {
+    "id": 97,
+    "city": "Toronto"
+  },
+  {
+    "id": 98,
+    "city": "Vancouver"
+  },
+  {
+    "id": 99,
+    "city": "Montreal"
+  },
+  {
+    "id": 100,
+    "city": "Mexico City"
+  },
+  {
+    "id": 101,
+    "city": "Rio de Janeiro"
+  },
+  {
+    "id": 102,
+    "city": "Sao Paulo"
+  },
+  {
+    "id": 103,
+    "city": "Buenos Aires"
+  },
+  {
+    "id": 104,
+    "city": "Lima"
+  },
+  {
+    "id": 105,
+    "city": "Santiago"
+  },
+  {
+    "id": 106,
+    "city": "Bogota"
+  },
+  {
+    "id": 107,
+    "city": "Caracas"
+  },
+  {
+    "id": 108,
+    "city": "Lisbon"
+  },
+  {
+    "id": 109,
+    "city": "Madrid"
+  },
+  {
+    "id": 110,
+    "city": "Barcelona"
+  },
+  {
+    "id": 111,
+    "city": "Paris"
+  },
+  {
+    "id": 112,
+    "city": "London"
+  },
+  {
+    "id": 113,
+    "city": "Dublin"
+  },
+  {
+    "id": 114,
+    "city": "Amsterdam"
+  },
+  {
+    "id": 115,
+    "city": "Brussels"
+  },
+  {
+    "id": 116,
+    "city": "Berlin"
+  },
+  {
+    "id": 117,
+    "city": "Vienna"
+  },
+  {
+    "id": 118,
+    "city": "Rome"
+  },
+  {
+    "id": 119,
+    "city": "Athens"
+  },
+  {
+    "id": 120,
+    "city": "Istanbul"
+  },
+  {
+    "id": 121,
+    "city": "Moscow"
+  },
+  {
+    "id": 122,
+    "city": "St. Petersburg"
+  },
+  {
+    "id": 123,
+    "city": "Cairo"
+  },
+  {
+    "id": 124,
+    "city": "Cape Town"
+  },
+  {
+    "id": 125,
+    "city": "Nairobi"
+  },
+  {
+    "id": 126,
+    "city": "Marrakech"
+  },
+  {
+    "id": 127,
+    "city": "Dubai"
+  },
+  {
+    "id": 128,
+    "city": "Hong Kong"
+  },
+  {
+    "id": 129,
+    "city": "Tokyo"
+  },
+  {
+    "id": 130,
+    "city": "Seoul"
+  },
+  {
+    "id": 131,
+    "city": "Beijing"
+  },
+  {
+    "id": 132,
+    "city": "Shanghai"
+  },
+  {
+    "id": 133,
+    "city": "Bangkok"
+  },
+  {
+    "id": 134,
+    "city": "Singapore"
+  },
+  {
+    "id": 135,
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 136,
+    "city": "Jakarta"
+  },
+  {
+    "id": 137,
+    "city": "Sydney"
+  },
+  {
+    "id": 138,
+    "city": "Melbourne"
+  },
+  {
+    "id": 139,
+    "city": "Brisbane"
+  },
+  {
+    "id": 140,
+    "city": "Auckland"
+  },
+  {
+    "id": 141,
+    "city": "Wellington"
+  },
+  {
+    "id": 142,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 143,
+    "city": "San Francisco"
+  },
+  {
+    "id": 144,
+    "city": "Las Vegas"
+  },
+  {
+    "id": 145,
+    "city": "Chicago"
+  },
+  {
+    "id": 146,
+    "city": "Miami"
+  },
+  {
+    "id": 147,
+    "city": "New Orleans"
+  },
+  {
+    "id": 148,
+    "city": "Toronto"
+  },
+  {
+    "id": 149,
+    "city": "Vancouver"
+  },
+  {
+    "id": 150,
+    "city": "Montreal"
+  },
+  {
+    "id": 151,
+    "city": "Mexico City"
+  },
+  {
+    "id": 152,
+    "city": "Rio de Janeiro"
+  },
+  {
+    "id": 153,
+    "city": "Sao Paulo"
+  },
+  {
+    "id": 154,
+    "city": "Buenos Aires"
+  },
+  {
+    "id": 155,
+    "city": "Lima"
+  },
+  {
+    "id": 156,
+    "city": "Santiago"
+  },
+  {
+    "id": 157,
+    "city": "Bogota"
+  },
+  {
+    "id": 158,
+    "city": "Caracas"
+  },
+  {
+    "id": 159,
+    "city": "Lisbon"
+  },
+  {
+    "id": 160,
+    "city": "Madrid"
+  },
+  {
+    "id": 161,
+    "city": "Barcelona"
+  },
+  {
+    "id": 162,
+    "city": "Paris"
+  },
+  {
+    "id": 163,
+    "city": "London"
+  },
+  {
+    "id": 164,
+    "city": "Dublin"
+  },
+  {
+    "id": 165,
+    "city": "Amsterdam"
+  },
+  {
+    "id": 166,
+    "city": "Brussels"
+  },
+  {
+    "id": 167,
+    "city": "Berlin"
+  },
+  {
+    "id": 168,
+    "city": "Vienna"
+  },
+  {
+    "id": 169,
+    "city": "Rome"
+  },
+  {
+    "id": 170,
+    "city": "Athens"
+  },
+  {
+    "id": 171,
+    "city": "Istanbul"
+  },
+  {
+    "id": 172,
+    "city": "Moscow"
+  },
+  {
+    "id": 173,
+    "city": "St. Petersburg"
+  },
+  {
+    "id": 174,
+    "city": "Cairo"
+  },
+  {
+    "id": 175,
+    "city": "Cape Town"
+  },
+  {
+    "id": 176,
+    "city": "Nairobi"
+  },
+  {
+    "id": 177,
+    "city": "Marrakech"
+  },
+  {
+    "id": 178,
+    "city": "Dubai"
+  },
+  {
+    "id": 179,
+    "city": "Hong Kong"
+  },
+  {
+    "id": 180,
+    "city": "Tokyo"
+  },
+  {
+    "id": 181,
+    "city": "Seoul"
+  },
+  {
+    "id": 182,
+    "city": "Beijing"
+  },
+  {
+    "id": 183,
+    "city": "Shanghai"
+  },
+  {
+    "id": 184,
+    "city": "Bangkok"
+  },
+  {
+    "id": 185,
+    "city": "Singapore"
+  },
+  {
+    "id": 186,
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 187,
+    "city": "Jakarta"
+  },
+  {
+    "id": 188,
+    "city": "Sydney"
+  },
+  {
+    "id": 189,
+    "city": "Melbourne"
+  },
+  {
+    "id": 190,
+    "city": "Brisbane"
+  },
+  {
+    "id": 191,
+    "city": "Auckland"
+  },
+  {
+    "id": 192,
+    "city": "Wellington"
+  },
+  {
+    "id": 193,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 194,
+    "city": "San Francisco"
+  },
+  {
+    "id": 195,
+    "city": "Las Vegas"
+  },
+  {
+    "id": 196,
+    "city": "Chicago"
+  },
+  {
+    "id": 197,
+    "city": "Miami"
+  },
+  {
+    "id": 198,
+    "city": "New Orleans"
+  },
+  {
+    "id": 199,
+    "city": "Toronto"
+  },
+  {
+    "id": 200,
+    "city": "Vancouver"
+  }
+],
+"Fruits": [
+  {
+    "id": 0,
+    "nesne": "Araba"
+  },
+  {
+    "id": 1,
+    "nesne": "Sandalye"
+  },
+  {
+    "id": 2,
+    "nesne": "Masa"
+  },
+  {
+    "id": 3,
+    "nesne": "Bilgisayar"
+  },
+  {
+    "id": 4,
+    "nesne": "Kalem"
+  },
+  {
+    "id": 5,
+    "nesne": "Kitap"
+  },
+  {
+    "id": 6,
+    "nesne": "Telefon"
+  },
+  {
+    "id": 7,
+    "nesne": "Anahtar"
+  },
+  {
+    "id": 8,
+    "nesne": "Televizyon"
+  },
+  {
+    "id": 9,
+    "nesne": "Bardak"
+  },
+  {
+    "id": 10,
+    "nesne": "Koltuk"
+  },
+  {
+    "id": 11,
+    "nesne": "Lamba"
+  },
+  {
+    "id": 12,
+    "nesne": "Çanta"
+  },
+  {
+    "id": 13,
+    "nesne": "Cüzdan"
+  },
+  {
+    "id": 14,
+    "nesne": "Ayakkabı"
+  },
+  {
+    "id": 15,
+    "nesne": "Kulaklık"
+  },
+  {
+    "id": 16,
+    "nesne": "Yastık"
+  },
+  {
+    "id": 17,
+    "nesne": "Gözlük"
+  },
+  {
+    "id": 18,
+    "nesne": "Anahtarlık"
+  },
+  {
+    "id": 19,
+    "nesne": "Cep telefonu"
+  },
+  {
+    "id": 20,
+    "nesne": "Pantolon"
+  },
+  {
+    "id": 21,
+    "nesne": "Tişört"
+  },
+  {
+    "id": 22,
+    "nesne": "Masa lambası"
+  },
+  {
+    "id": 23,
+    "nesne": "Saatin"
+  },
+  {
+    "id": 24,
+    "nesne": "Kamera"
+  },
+  {
+    "id": 25,
+    "nesne": "Çatal"
+  },
+  {
+    "id": 26,
+    "nesne": "Kaşık"
+  },
+  {
+    "id": 27,
+    "nesne": "Bıçak"
+  },
+  {
+    "id": 28,
+    "nesne": "Tencere"
+  },
+  {
+    "id": 29,
+    "nesne": "Tava"
+  },
+  {
+    "id": 30,
+    "nesne": "Kepçe"
+  },
+  {
+    "id": 31,
+    "nesne": "Çamaşır makinesi"
+  },
+  {
+    "id": 32,
+    "nesne": "Buzdolabı"
+  },
+  {
+    "id": 33,
+    "nesne": "Fırın"
+  },
+  {
+    "id": 34,
+    "nesne": "Ütü"
+  },
+  {
+    "id": 35,
+    "nesne": "Terlik"
+  },
+  {
+    "id": 36,
+    "nesne": "Saç kurutma makinesi"
+  },
+  {
+    "id": 37,
+    "nesne": "Çorap"
+  },
+  {
+    "id": 38,
+    "nesne": "Gömlek"
+  },
+  {
+    "id": 39,
+    "nesne": "Ayran"
+  },
+  {
+    "id": 40,
+    "nesne": "Sürahi"
+  },
+  {
+    "id": 41,
+    "nesne": "Elbise"
+  },
+  {
+    "id": 42,
+    "nesne": "Fare"
+  },
+  {
+    "id": 43,
+    "nesne": "Klavye"
+  },
+  {
+    "id": 44,
+    "nesne": "Hoparlör"
+  },
+  {
+    "id": 45,
+    "nesne": "Yemek masası"
+  },
+  {
+    "id": 46,
+    "nesne": "Bardak matarası"
+  },
+  {
+    "id": 47,
+    "nesne": "Çikolata"
+  },
+  {
+    "id": 48,
+    "nesne": "Sakız"
+  },
+  {
+    "id": 49,
+    "nesne": "Kek"
+  },
+  {
+    "id": 50,
+    "nesne": "Kahve fincanı"
+  },
+  {
+    "id": 51,
+    "nesne": "Puzzle"
+  },
+  {
+    "id": 52,
+    "nesne": "Masaüstü bilgisayar"
+  },
+  {
+    "id": 53,
+    "nesne": "Dizüstü bilgisayar"
+  },
+  {
+    "id": 54,
+    "nesne": "Monitör"
+  },
+  {
+    "id": 55,
+    "nesne": "Mause"
+  },
+  {
+    "id": 56,
+    "nesne": "Cep telefonu şarj cihazı"
+  },
+  {
+    "id": 57,
+    "nesne": "Oyuncak ayı"
+  },
+  {
+    "id": 58,
+    "nesne": "Oyuncak araba"
+  },
+  {
+    "id": 59,
+    "nesne": "Oyuncak bebek"
+  },
+  {
+    "id": 60,
+    "nesne": "Oyuncak köpek"
+  },
+  {
+    "id": 61,
+    "nesne": "Oyuncak kedi"
+  },
+  {
+    "id": 62,
+    "nesne": "Yatak"
+  },
+  {
+    "id": 63,
+    "nesne": "Yorgan"
+  },
+  {
+    "id": 64,
+    "nesne": "Yastık kılıfı"
+  },
+  {
+    "id": 65,
+    "nesne": "Perde"
+  },
+  {
+    "id": 66,
+    "nesne": "Halı"
+  },
+  {
+    "id": 67,
+    "nesne": "Duvar saati"
+  },
+  {
+    "id": 68,
+    "nesne": "Ruj"
+  },
+  {
+    "id": 69,
+    "nesne": "Fondöten"
+  },
+  {
+    "id": 70,
+    "nesne": "Ruj fırçası"
+  },
+  {
+    "id": 71,
+    "nesne": "Eyeliner"
+  },
+  {
+    "id": 72,
+    "nesne": "Mascara"
+  },
+  {
+    "id": 73,
+    "nesne": "Parfüm"
+  },
+  {
+    "id": 74,
+    "nesne": "Şampuan"
+  },
+  {
+    "id": 75,
+    "nesne": "Saç spreyi"
+  },
+  {
+    "id": 76,
+    "nesne": "Dondurma"
+  },
+  {
+    "id": 77,
+    "nesne": "Pizza"
+  },
+  {
+    "id": 78,
+    "nesne": "Hamburger"
+  },
+  {
+    "id": 79,
+    "nesne": "Patates kızartması"
+  },
+  {
+    "id": 80,
+    "nesne": "Salata"
+  },
+  {
+    "id": 81,
+    "nesne": "Puding"
+  },
+  {
+    "id": 82,
+    "nesne": "Süt"
+  },
+  {
+    "id": 83,
+    "nesne": "Yoğurt"
+  },
+  {
+    "id": 84,
+    "nesne": "Reçel"
+  },
+  {
+    "id": 85,
+    "nesne": "Tuz"
+  },
+  {
+    "id": 86,
+    "nesne": "Şeker"
+  },
+  {
+    "id": 87,
+    "nesne": "Sıvı yağ"
+  },
+  {
+    "id": 88,
+    "nesne": "Pirinç"
+  },
+  {
+    "id": 89,
+    "nesne": "Bulgur"
+  },
+  {
+    "id": 90,
+    "nesne": "Mercimek"
+  },
+  {
+    "id": 91,
+    "nesne": "Un"
+  },
+  {
+    "id": 92,
+    "nesne": "Yumurta"
+  },
+  {
+    "id": 93,
+    "nesne": "Tavuk"
+  },
+  {
+    "id": 94,
+    "nesne": "Dana eti"
+  },
+  {
+    "id": 95,
+    "nesne": "Domates"
+  },
+  {
+    "id": 96,
+    "nesne": "Salatalık"
+  },
+  {
+    "id": 97,
+    "nesne": "Patlıcan"
+  },
+  {
+    "id": 98,
+    "nesne": "Biber"
+  },
+  {
+    "id": 99,
+    "nesne": "Soğan"
+  },
+  {
+    "id": 100,
+    "nesne": "Elma"
+  },
+  {
+    "id": 101,
+    "nesne": "Armut"
+  },
+]
+}
